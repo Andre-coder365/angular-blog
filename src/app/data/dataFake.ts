@@ -19,7 +19,7 @@ export const dataFake = [
   },
   {
     "id":"4",
-    "title": "A história dos games: a criação de Space Invaders",
+    "title": "A história dos games: a criação do Space Invaders",
     "description": "bla bla bla bla bla",
     "photoCover": "https://i.ytimg.com/vi/k6rTH77tML0/maxresdefault.jpg"
   }
